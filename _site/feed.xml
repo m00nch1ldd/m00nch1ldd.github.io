@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Shwetha V</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing. blog, shwetha, github</subtitle>
-  <updated>2025-04-10T20:36:43+05:30</updated>
+  <updated>2025-04-10T22:06:04+05:30</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/day-1/" rel="alternate" type="text/html" title="Day 1" />
     <published>2025-04-10T00:00:00+05:30</published>
   
-    <updated>2025-04-10T00:00:00+05:30</updated>
+    <updated>2025-04-10T21:59:56+05:30</updated>
   
     <id>http://localhost:4000/posts/day-1/</id>
     <content type="text/html" src="http://localhost:4000/posts/day-1/" />
